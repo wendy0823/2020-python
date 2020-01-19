@@ -3,7 +3,7 @@
 
 ### python程式設計
 - p01.py
-```
+```python
 a=10
 print(a)
 - p02.py
