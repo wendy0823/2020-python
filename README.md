@@ -3,6 +3,9 @@
 
 ### python程式設計
 - p01.py
+```
+a=10
+print(a)
 - p02.py
 - p03.py
 - p04.py
